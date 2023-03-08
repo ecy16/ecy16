@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ecy16
 - 👀 I’m interested in ...frontend development 
-- 🌱 I’m currently learning ...javascript
+- i have recently finished learning Javascript.
+- 🌱 I’m currently learning ...React js
 - 💞️ I’m looking to collaborate on ...learning javascript and react
 - 📫 How to reach me ...nyamburanjuguna16@gmail.com
 
