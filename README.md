@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @ecy16
-- @drtech on Hashnode
+- 👋 Hi, I’m @ecyla also Claire
+-  I am @drtech on Hashnode is my Tech blog i use to document my journey as a Junior Developer
 - 👀 I’m interested in ...frontend development 
-- i have recently finished learning Javascript.
-- 🌱 I’m currently learning ...React js
-- 💞️ I’m looking to collaborate on ...learning javascript and react
-- 📫 How to reach me ...ecylamichaels16@gmail.com 
-- @drtech.hashnode.dev 
+- 💞️ I love Coding
+- 📫 How to reach me ...ecylamichaels16@gmail.com  AND nyamburanjuguna16@gmail.com 
 - 
 
 <!---
