@@ -2,7 +2,7 @@
 -  I am @drtech on Hashnode is my Tech blog i use to document my journey as a Junior Developer
 - 👀 I’m interested in ...Building cool stuff for the Web.
 - 💞️ I love Coding
-- 📫 How to reach me ...ecylamichaels16@gmail.com  AND nyamburanjuguna16@gmail.com 
+- 📫 How to reach me ... nyamburanjuguna16@gmail.com 
 - 
 
 <!---
