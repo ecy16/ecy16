@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ecyla also Claire
--  I am @drtech on Hashnode is my Tech blog i use to document my journey as a Techie
+-  I am @drtech on Hashnode Tech blog i use to document my journey as a Techie
 - 👀 I’m interested in ...Building cool stuff for the Web.
-- 💞️ I love Coding
+- 💞️ I enjoy writing Code.
 - 📫 How to reach me ... nyamburanjuguna16@gmail.com 
 - 
 
